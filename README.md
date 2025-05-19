@@ -1,1 +1,4 @@
-# 2025_nextjs_sample
+# Next.js && FastAPIを用いたアプリケーション開発
+開発ルール策定ができるようになりたいだけ。Next.jsの開発ルールも策定したい。
+FastAPIは特に気にしない。
+
