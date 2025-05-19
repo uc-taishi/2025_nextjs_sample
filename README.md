@@ -1,0 +1,1 @@
+# 2025_nextjs_sample
